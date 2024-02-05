@@ -27,5 +27,7 @@ Flight Management System(FMS) is a Java-based application designed to manage fli
 9. Run the `FlightManagementSystem.java` file by clicking on the Run button or pressing `Ctrl + F5`.
 
 ## Preview
-![Preview](path/to/preview.png)
+![start](img/start.png)<br>
+![login](img/login.png)
+![portal](img/portal.png)
 
