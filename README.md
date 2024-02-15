@@ -26,6 +26,7 @@ Flight Management System(FMS) is a Java-based application designed to manage fli
 8. Update the `JdbcConnector.java` file with your JDBC URL, username, and password for MySQL.
 9. Run the `FlightManagementSystem.java` file by clicking on the Run button or pressing `Ctrl + F5`.
 
-## Preview
-![portal](img/portal.png)
+
+<!-- ## Preview -->
+<!-- ![portal](img/portal.png) -->
 
